@@ -1,6 +1,8 @@
 # LE-Screencap-Buddy
 Adds 2 keybinds for easy conversation screencaps in Mass Effect Legendary Edition
 
+>\* only for 2 and 3 atm i think there's something different about the UI in 1 i forgot to figure out. like most repos of mine its to hold stupid shit i make badly for myself
+
 ## Usage:
 **F10** -> Show/Hide Scaleform UI
 
