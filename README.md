@@ -11,6 +11,7 @@ Adds 2 keybinds for easy conversation screencaps in Mass Effect Legendary Editio
 ## Warnings:
 Not a good mod but it'll do the trick. Made for myself but if you find this, things you should keep in mind:
 
+- not packaged correctly, no releases atm. zip folder contents and import manually, ignore warnings
 - F10 will also hide the recticules in the world, thus hiding interactable objects (hit it again they'll come back)
 - iirc if you open the menu while the UI is hidden it'll get all fucked up so like... don't do that
 
