@@ -15,3 +15,5 @@ Not a good mod but it'll do the trick. Made for myself but if you find this, thi
 - iirc if you open the menu while the UI is hidden it'll get all fucked up so like... don't do that
 - or maybe its fine because its a keybind rather than having to enter in the console? i need to do some testing
 - me @ me do some testing
+
+NO I REMEMBER its that le1 doesnt have a lensflare toggle at all
