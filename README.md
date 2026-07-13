@@ -11,9 +11,6 @@ Adds 2 keybinds for easy conversation screencaps in Mass Effect Legendary Editio
 Not a good mod but it'll do the trick. Made for myself but if you find this, things you should keep in mind:
 
 - not packaged correctly, no releases atm. zip folder contents for each game separately and import manually. ignore warnings
-- F8 will also hide the recticules in the world, thus hiding interactable objects (hit it again they'll come back) \[why are lens flares connected to reticules in game anyway lol]
-- iirc if you open the menu while the UI is hidden it'll get all fucked up so like... don't do that
-- or maybe its fine because its a keybind rather than having to enter in the console? i need to do some testing
-- me @ me do some testing
-
-NO I REMEMBER its that le1 doesnt have a lensflare toggle at all
+- if you open the menu while scaleform ui is hidden it looks fucked up but just hit the button again itll come back
+- F8 also hides reticules AND their interraction box, so you cant open doors or talk to people (hit it again they'll come back) \[why are lens flares connected to reticules in game anyway lol]
+- le1 does not have a lensflare toggle, scaleform controls interactable objects as well (but are still usable, interestingly enough?)
