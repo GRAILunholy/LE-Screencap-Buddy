@@ -1,8 +1,7 @@
-# LE-Screencap-Buddy
-Adds 2 keybinds for easy conversation screencaps in Mass Effect Legendary Edition
+# LE-Cutscene-Buddy
+readme overhaul incoming
 
->\* only for 2 and 3 atm i think there's something different about the UI in 1 i forgot to figure out. like most repos of mine its to hold stupid shit i make badly for myself
-
+Adds 2 keybinds for easy conversation screencaps in Mass Effect Legendary Edition (2+3 only im repackaging 1 as we speak)
 ## Usage:
 **F10** -> Show/Hide Scaleform UI
 
@@ -12,7 +11,7 @@ Adds 2 keybinds for easy conversation screencaps in Mass Effect Legendary Editio
 Not a good mod but it'll do the trick. Made for myself but if you find this, things you should keep in mind:
 
 - not packaged correctly, no releases atm. zip folder contents for each game separately and import manually. ignore warnings
-- F10 will also hide the recticules in the world, thus hiding interactable objects (hit it again they'll come back)
+- F8 will also hide the recticules in the world, thus hiding interactable objects (hit it again they'll come back) \[why are lens flares connected to reticules in game anyway lol]
 - iirc if you open the menu while the UI is hidden it'll get all fucked up so like... don't do that
-
-maybe someday i'll actually build this out into something that doesn't have these issues but for now, thats why it's not on nexus lmao
+- or maybe its fine because its a keybind rather than having to enter in the console? i need to do some testing
+- me @ me do some testing
