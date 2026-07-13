@@ -19,3 +19,10 @@ Not a good mod but it'll do the trick. Made for myself but if you find this, thi
 ## Personal Reccs:
 - secondary screenshot location for higher quality png over bmp
 - list of mods shown in screenshots, that one you'll need to figure out
+
+thanks to:
+nanuke, herobrine24, tajfun403
+mass effect modding discord
+for troubleshooting my hide ui mod lol
+
+and the team that makes the fuckin tools fuck sake
