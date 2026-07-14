@@ -3,9 +3,9 @@ readme overhaul incoming
 
 Adds 2 keybinds for easy conversation screencaps in Mass Effect Legendary Edition (2+3 only im repackaging 1 as we speak)
 ## Usage:
-**F10** -> Show/Hide Scaleform UI
+**F10** -> Toggle Scaleform UI
 
-**F8** -> Show/Hide Lensflare
+**F8** -> Toggle Lensflare (LE2 & LE3 only)
 
 ## Warnings:
 Not a good mod but it'll do the trick. Made for myself but if you find this, things you should keep in mind:
