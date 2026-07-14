@@ -1,0 +1,3 @@
+[BioInput.ini SFXGame.SFXGameModeBase]
++Bindings=( Name="F8", Command="Show lensflares" )
++Bindings=( Name="F10", Command="Show Scaleform", Control=False,Shift=False,Alt=False )
