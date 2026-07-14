@@ -1,5 +1,9 @@
 # LE-Screencap-Buddy
 readme overhaul incoming
+## todo:
+- check if refactor me2/3 to match
+- recompile into singular for all
+- whatever needs to be done to make nexus work
 
 Adds 2 keybinds for easy conversation screencaps in Mass Effect Legendary Edition (2+3 only im repackaging 1 as we speak)
 ## Usage:
@@ -19,6 +23,8 @@ Not a good mod but it'll do the trick. Made for myself but if you find this, thi
 ## Personal Reccs:
 - secondary screenshot location for higher quality png over bmp
 - list of mods shown in screenshots, that one you'll need to figure out
+> nevermind i can't figure out how to do the rebind of quicksave so for now, recommend manual rebind lol
+
 
 thanks to:
 nanuke, herobrine24, tajfun403
@@ -26,5 +32,3 @@ mass effect modding discord
 for troubleshooting my hide ui mod lol
 
 and the team that makes the fuckin tools fuck sake
-
-> nevermind i can't figure out how to do the rebind of quicksave so for now, recommend manual rebind lol
