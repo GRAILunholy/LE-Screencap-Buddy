@@ -27,4 +27,4 @@ for troubleshooting my hide ui mod lol
 
 and the team that makes the fuckin tools fuck sake
 
-nar > do flare on f9 and move quckload to 7 ?
+> nevermind i can't figure out how to do the rebind of quicksave so for now, recommend manual rebind lol
