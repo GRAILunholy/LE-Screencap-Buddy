@@ -1,7 +1,7 @@
 # LE-Screencap-Buddy
 readme overhaul incoming
 
-Adds 2 keybinds for easy conversation screencaps in Mass Effect Legendary Edition (2+3 only im repackaging 1 as we speak)
+Adds 2 keybinds for easy conversation screencaps in Mass Effect Legendary Edition
 ## Usage:
 **F10** -> Toggle Scaleform UI
 
