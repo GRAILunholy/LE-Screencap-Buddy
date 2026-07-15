@@ -1,5 +1,6 @@
 # LE-Screencap-Buddy
 Adds 2 keybinds for easy conversation screencaps in Mass Effect Legendary Edition
+
 ## Usage:
 **F10** -> Toggle Scaleform UI: will hide menu buttons, but toggle brings them back
 
@@ -15,4 +16,4 @@ nanuke, herobrine24, tajfun403 for patiently explaining and troubleshooting the 
 
 most importantly: The dev team of ME3Tweaks, and guide / documentation writers
 
-<sub>its for 3 stage file backup not for hinged and professional commits  ꉂ  ¯\\\_ ᖽ ´∀｀ᖾ  \_/¯</sub>
+<sub>repos are for 3 stage file backup, not for hinged and professional commits  ꉂ  ¯\\\_ ᖽ ´∀｀ᖾ  \_/¯</sub>
