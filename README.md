@@ -3,7 +3,7 @@ Adds 2 keybinds for easy conversation screencaps in Mass Effect Legendary Editio
 ## Usage:
 **F10** -> Toggle Scaleform UI: will hide menu buttons, but toggle brings them back
 
-**F8** -> Toggle Lensflare (LE2 & LE3 only): also hides interraction boxes, beware
+**F8** -> Toggle Lensflare (LE2 & LE3 only): also hides interactive buttons, beware
 
 ## TODO:
 - #nexusupdate-rules
