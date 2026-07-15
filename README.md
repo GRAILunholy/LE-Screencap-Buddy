@@ -21,6 +21,7 @@ Not a good mod but it'll do the trick. Made for myself but if you find this, thi
 
 ## TODO:
 - #nexusupdate-rules
+- third party identification service (needs public mod page [probably same above also])
 
 thanks to:
 nanuke, herobrine24, tajfun403
