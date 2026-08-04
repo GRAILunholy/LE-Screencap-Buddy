@@ -1,5 +1,6 @@
 # LE-Screencap-Buddy
 - [Nexus Page](https://www.nexusmods.com/masseffectlegendaryedition/mods/3337)
+
 Adds 2 keybinds for easy conversation screencaps in Mass Effect Legendary Edition
 
 ## Usage:
